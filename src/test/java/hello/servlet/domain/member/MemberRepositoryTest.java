@@ -1,4 +1,4 @@
-package com.spring.servlet.domain.member;
+package hello.servlet.domain.member;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
