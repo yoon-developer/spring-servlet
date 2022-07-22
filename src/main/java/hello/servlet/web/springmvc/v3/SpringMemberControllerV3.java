@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
-@RequestMapping("/springmvc/v2/members")
+@RequestMapping("/springmvc/v3/members")
 public class SpringMemberControllerV3 {
 
   private MemberRepository memberRepository = MemberRepository.getInstance();
